@@ -211,7 +211,8 @@
     <distributionManagement>
         <repository>
             <id>localRepository</id>
-            <url>/com/brmayi/repository</url>
-        </repository>
+            <url>/com/brmayi/repository
+			
+			
     </distributionManagement>
 </project>
